@@ -50,7 +50,7 @@
 - [x] Установить SDKMAN и через него JDK 17 и 25 (сейчас в системе только JDK 27; `core` на нём не собирается из-за Lombok).
 - [ ] IntelliJ IDEA (Community хватит на старте, для Spring удобнее Ultimate).
 - [x] Maven через SDKMAN.
-- [ ] Превратить `learn-java` в Maven-проект с JUnit 5. Убрать `Hello.class` из репозитория, завести git.
+- [x] Превратить `learn-java` в Maven-проект с JUnit 5. Убрать `Hello.class` из репозитория, завести git.
 
 ## Этап 1. Ядро языка (4 недели)
 
